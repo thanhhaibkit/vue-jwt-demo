@@ -8,8 +8,8 @@
           class="form-control"
           id="name"
           required
-          v-model="product.title"
-          name="title"
+          v-model="product.name"
+          name="name"
         />
       </div>
 

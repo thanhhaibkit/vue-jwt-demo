@@ -1,6 +1,9 @@
 <template>
   <div class="list row">
     <div class="col-md-6">
+      <router-link to="/add-product" class="badge badge-success">
+        New
+      </router-link>
       <h4>Products List</h4>
       <ul class="list-group">
         <li class="list-group-item"

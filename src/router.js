@@ -38,7 +38,7 @@ export const router = new Router({
       component: () => import("./views/product/Product")
     },
     {
-      path: "/products/add",
+      path: "/add-product",
       name: "product-create",
       component: () => import("./views/product/AddProduct")
     }
