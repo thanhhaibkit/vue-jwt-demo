@@ -1,1 +1,1 @@
-# Spring Boot Authentication with Spring Security and JWT
+# VueJS with Vue Router and VueX, JWT
